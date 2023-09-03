@@ -1,5 +1,5 @@
 <div align="center">
-   <h1 align="center" size="50px">
+   <h1 align="center" style="font-size:70px;">
         React + MaterialUI + Zustand
     </h1>
     <h1 align="center">
