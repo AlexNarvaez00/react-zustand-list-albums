@@ -2,7 +2,7 @@
     <h1 align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" height="70"/> +
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="70" height="70" /> +
-        <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/src/resources/bear.png" width="70" height="100"  />
+        <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/src/resources/bear.png" width="120" height="70"  />
     </h1>
     <h1 align="center">
         React + MaterialUI + Zustand
